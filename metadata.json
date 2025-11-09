@@ -1,0 +1,5 @@
+{
+  "name": "SIGA-GTB Warehouse Management",
+  "description": "An intelligent warehouse management system to track inventory, register stock movements, and receive automated alerts for low stock levels, based on the SIGA-GTB blueprint.",
+  "requestFramePermissions": []
+}
